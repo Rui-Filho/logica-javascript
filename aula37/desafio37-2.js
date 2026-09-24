@@ -13,8 +13,8 @@ const vendas = [
 
 function todasVendasDoVendedorAtingemMinimo(lista, nome, valorMinimo) {
 
-    let vendasVendedor = lista.filter(item => item.vendedor===nome)
-
+    let vendasVendedor = lista.filter(item => item.vendedor===nome) 
+    
     return vendasVendedor.every(item => item.valor>=valorMinimo)
 
 }
