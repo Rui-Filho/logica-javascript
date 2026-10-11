@@ -1,4 +1,4 @@
-/* RESPOSTA Aula 39 - Nível 4   */
+/*  Aula 39 - Nível 4   */
 
 const vendedores = ["Ana", "Carlos", "Joao", "Marina", "Pedro"]
 
